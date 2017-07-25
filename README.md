@@ -1,2 +1,4 @@
 # cruzzer-world
-Cruise along the dusty roads repository.
+A repository that describes all contract work done as we cruise along the dusty roads.
+
+Have fun enjoy the ride!
